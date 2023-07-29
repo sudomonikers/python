@@ -54,3 +54,6 @@ print(J)
 
 M = (a - 1) * (b+c)
 print(M)
+
+zeros = np.zeros((1, 3))
+print(zeros)
